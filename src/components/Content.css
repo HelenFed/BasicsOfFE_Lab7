@@ -1,0 +1,13 @@
+.content {
+    font-family: Arial, sans-serif;
+  }
+  
+  .highlighted1 {
+    background-color: aqua;
+    color: darkblue;
+  }
+
+  .highlighted2 {
+    background-color: yellow;
+    color: red;
+  }
