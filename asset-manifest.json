@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BasicsOfFE_Lab7/static/css/main.6f1e4639.css",
+    "main.js": "/BasicsOfFE_Lab7/static/js/main.2428bdea.js",
+    "index.html": "/BasicsOfFE_Lab7/index.html",
+    "main.6f1e4639.css.map": "/BasicsOfFE_Lab7/static/css/main.6f1e4639.css.map",
+    "main.2428bdea.js.map": "/BasicsOfFE_Lab7/static/js/main.2428bdea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1e4639.css",
+    "static/js/main.2428bdea.js"
+  ]
+}
